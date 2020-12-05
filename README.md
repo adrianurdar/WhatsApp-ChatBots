@@ -1,4 +1,5 @@
 # WhatsApp-ChatBots
 ## Chatbots created to run on WhatsApp
 
-* [Cats and Quotes Bot - Created with Python and Twilio]()
+* [Synonyms Game Bot](https://github.com/adrianurdar/WhatsApp-ChatBots/tree/main/WhatsApp-Synonyms-Game-Bot)
+* [Cats and Quotes Bot]()
