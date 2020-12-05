@@ -15,4 +15,4 @@
 
 **Screenshots:**
 
-![]()
+![](https://github.com/adrianurdar/WhatsApp-ChatBots/blob/main/WhatsApp-Synonyms-Game-Bot/Screenshot%202020-12-05%20at%209.55.21%20PM.png)
